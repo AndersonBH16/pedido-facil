@@ -1,3 +1,15 @@
+webpack.mix.js
+package-lock.json
+/public/css/app.css
+/public/js/app.js
+/public/mix-manifest.json
+/public/fonts/vendor
+/public/images/vendor
+/public/vendor
+/resources/js/app.js
+/resources/js/bootstrap.js
+/resources/sass/app.scss
+
 /node_modules
 /public/hot
 /public/storage
